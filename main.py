@@ -114,6 +114,7 @@ if __name__ == "__main__":
         "https://t.me/s/V2RAYNG_IP",
         "https://t.me/s/VlessConfig",
         "https://t.me/s/outlineOpenKey",
+        "https://t.me/s/freecfgalloperator",
     ]
 
     all_v2ray_configs = []
