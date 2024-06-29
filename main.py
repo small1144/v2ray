@@ -105,17 +105,15 @@ def create_sub_section():
 
 if __name__ == "__main__":
     telegram_urls = [
-        "https://t.me/s/v2line",
-        "https://t.me/s/forwardv2ray",
-        "https://t.me/s/VmessProtocol"
-        "https://t.me/s/V2rayProtocol"
-        "https://t.me/s/oneclickvpnkeys"
-        "https://t.me/s/ARv2ray"
-        "https://t.me/s/v2rayng_vpnrog"
-        "https://t.me/s/Watashi_VPN"
-        "https://t.me/s/V2RAYNG_IP"
-        "https://t.me/s/VlessConfig"
-        "https://t.me/s/outlineOpenKey"
+        "https://t.me/s/VmessProtocol",
+        "https://t.me/s/V2rayProtocol",
+        "https://t.me/s/oneclickvpnkeys",
+        "https://t.me/s/ARv2ray",
+        "https://t.me/s/v2rayng_vpnrog",
+        "https://t.me/s/Watashi_VPN",
+        "https://t.me/s/V2RAYNG_IP",
+        "https://t.me/s/VlessConfig",
+        "https://t.me/s/outlineOpenKey",
     ]
 
     all_v2ray_configs = []
