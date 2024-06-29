@@ -28,11 +28,11 @@ jobs:
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
         git pull origin main
-        git add ./vmess_kuyshare.txt
-        git add ./trojan_kuyshare.txt
-        git add ./vless_kuyshare.txt
-        git add ./ss_kuyshare.txt
-        git add ./mixed_kuyshare.txt
+        git add ./vmess_free.txt
+        git add ./trojan_free.txt
+        git add ./vless_free.txt
+        git add ./ss_free.txt
+        git add ./mixed_free.txt
         git checkout main
         git commit -m "✔️ $(date '+%Y-%m-%d %H:%M:%S') Collected"
     - name: Push Changes
