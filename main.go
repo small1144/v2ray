@@ -166,9 +166,9 @@ func main() {
 		// 		reverse mode :
 		// 		lines := strings.Split(configcontent, "\n")
 		// 		reversed := reverse(lines)
-		// 		WriteToFile(strings.Join(reversed, "\n"), proto+"_kuyshare.txt")
+		// 		WriteToFile(strings.Join(reversed, "\n"), proto+"_free.txt")
 		// 		simple mode :
-		WriteToFile(RemoveDuplicate(configcontent), proto+"_kuyshare.txt")
+		WriteToFile(RemoveDuplicate(configcontent), proto+"_free.txt")
 	}
 
 }
