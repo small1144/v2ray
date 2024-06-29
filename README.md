@@ -1,8 +1,6 @@
 <h3 align="center">
-    <samp>&gt; V2rayCollector_py</samp>
+    <samp>&gt; V2Ray Collector</samp>
 </h3>
-
-This Python script scrapes V2Ray configuration links from various Telegram channels and saves them by region.
 <br>
 <br>
 ## Sub
