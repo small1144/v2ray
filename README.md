@@ -10,11 +10,13 @@
 | [France](https://raw.githubusercontent.com/small1144/v2ray/main/sub/France/config.txt) |
 | [Poland](https://raw.githubusercontent.com/small1144/v2ray/main/sub/Poland/config.txt) |
 | [Singapore](https://raw.githubusercontent.com/small1144/v2ray/main/sub/Singapore/config.txt) |
+| [Canada](https://raw.githubusercontent.com/small1144/v2ray/main/sub/Canada/config.txt) |
 | [Iran](https://raw.githubusercontent.com/small1144/v2ray/main/sub/Iran/config.txt) |
 | [Spain](https://raw.githubusercontent.com/small1144/v2ray/main/sub/Spain/config.txt) |
 | [United Kingdom](https://raw.githubusercontent.com/small1144/v2ray/main/sub/United%20Kingdom/config.txt) |
 | [United States](https://raw.githubusercontent.com/small1144/v2ray/main/sub/United%20States/config.txt) |
 | [Netherlands](https://raw.githubusercontent.com/small1144/v2ray/main/sub/Netherlands/config.txt) |
+
 
 
 ## V2RAY Collector
