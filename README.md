@@ -1,8 +1,3 @@
-<h3 align="center">
-    <samp>&gt; V2Ray Collector</samp>
-</h3>
-<br>
-<br>
 ## Sub
 | Sub |
 |-----|
@@ -20,6 +15,16 @@
 | [United Kingdom](https://raw.githubusercontent.com/small1144/v2ray/main/sub/United%20Kingdom/config.txt) |
 | [United States](https://raw.githubusercontent.com/small1144/v2ray/main/sub/United%20States/config.txt) |
 | [Netherlands](https://raw.githubusercontent.com/small1144/v2ray/main/sub/Netherlands/config.txt) |
+
+
+## V2RAY Collector
+| Protocol |
+|-----|
+| [Vmess](https://raw.githubusercontent.com/small1144/v2ray/main/vmess_free.txt) |
+| [Vless](https://raw.githubusercontent.com/small1144/v2ray/main/vless_free.txt) |
+| [Shadowsock](https://raw.githubusercontent.com/small1144/v2ray/main/ss_free.txt) |
+| [Trojan](https://raw.githubusercontent.com/small1144/v2ray/main/trojan_free.txt) |
+
 
 
 
