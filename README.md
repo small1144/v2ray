@@ -14,7 +14,7 @@
 | [Spain](https://raw.githubusercontent.com/small1144/v2ray/main/sub/Spain/config.txt) |
 | [United Kingdom](https://raw.githubusercontent.com/small1144/v2ray/main/sub/United%20Kingdom/config.txt) |
 | [United States](https://raw.githubusercontent.com/small1144/v2ray/main/sub/United%20States/config.txt) |
-| [Netherlands](https://raw.githubusercontent.com/small1144/v2ray/main/sub/Netherlands/config.txt) |
+
 
 
 
