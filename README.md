@@ -1,6 +1,7 @@
 ## Sub
 | Sub |
 |-----|
+| [Norway](https://raw.githubusercontent.com/small1144/v2ray/main/sub/Norway/config.txt) |
 | [Ireland](https://raw.githubusercontent.com/small1144/v2ray/main/sub/Ireland/config.txt) |
 | [Republic of Lithuania](https://raw.githubusercontent.com/small1144/v2ray/main/sub/Republic%20of%20Lithuania/config.txt) |
 | [Germany](https://raw.githubusercontent.com/small1144/v2ray/main/sub/Germany/config.txt) |
@@ -14,6 +15,7 @@
 | [Spain](https://raw.githubusercontent.com/small1144/v2ray/main/sub/Spain/config.txt) |
 | [United Kingdom](https://raw.githubusercontent.com/small1144/v2ray/main/sub/United%20Kingdom/config.txt) |
 | [United States](https://raw.githubusercontent.com/small1144/v2ray/main/sub/United%20States/config.txt) |
+
 
 
 
