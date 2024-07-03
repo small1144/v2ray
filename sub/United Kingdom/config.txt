@@ -2,9 +2,11 @@ trojan://telegram-id-privatevpns@18.168.164.100:22222/?type=tcp&security=tls&sni
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.134.25.79:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.175.73.45:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.175.83:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.155.36:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHaW9lZE8yM005VHJQTmlSS0lkZWw5@89.185.84.185:12575#🇬🇧 Великобритания
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c01tZWxHcDJmWERTQkE0WmdHY2xG@89.185.84.185:12575#🇬🇧 Великобритания
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUDlVNDNWcFpvTml2YnJ4UHFlOWRB@89.185.84.185:12575#🇬🇧 Великобритания
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNjlCYVB5WXN2NHBkZ21MUHE1R2Rw@89.185.84.185:12575#🇬🇧 Великобритания
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozamk2bW9jRXJVOExCYVVlYzVNNzVn@89.185.84.185:12575#🇬🇧 Великобритания
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNGluR09BUk9KUzhFaVc4Rkl6djgz@89.185.84.185:12575#🇬🇧 Великобритания
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5YWFGTVpOOWh3WHlGaXRUNVQyb2Yx@89.185.84.185:12575#🇬🇧 Великобритания
