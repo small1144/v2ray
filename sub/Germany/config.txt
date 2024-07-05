@@ -1,6 +1,4 @@
 vless://b8193a2e-f914-45d5-ced4-62ea5e02fcda@app.v.seatech.ir:8081/?encryption=none&host=zula.ir&type=tcp&headerType=http#%E2%AD%951%40oneclickvpnkeysvless://2246bee5-268b-47b3-e113-256168d223e3@imgcdn.seatech.ir:8081/?encryption=none&host=zula.ir&type=tcp&headerType=http#%E2%AD%952%40oneclickvpnkeys
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.0.186:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.152.68:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUEtIMUNoZjhrUU1CY2U0Tm1kcEhr@81.19.141.45:52873#🇩🇪 Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxc09mUW1lZjhYNTM4NW95WEZRTE9D@81.19.141.45:52873#🇩🇪 Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUnBuSHJrcVF1TjJEZHE0MTQ2bmpp@81.19.141.45:52873#🇩🇪 Германия

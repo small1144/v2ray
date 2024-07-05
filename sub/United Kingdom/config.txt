@@ -2,6 +2,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.196:443#%F0%9F%85%BF%EF%B8%8F54%
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.160.71:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.170.163.176:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.130.164.38:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.63.91:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHaW9lZE8yM005VHJQTmlSS0lkZWw5@89.185.84.185:12575#🇬🇧 Великобритания
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c01tZWxHcDJmWERTQkE0WmdHY2xG@89.185.84.185:12575#🇬🇧 Великобритания
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUDlVNDNWcFpvTml2YnJ4UHFlOWRB@89.185.84.185:12575#🇬🇧 Великобритания
