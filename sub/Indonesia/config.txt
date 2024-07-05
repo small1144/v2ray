@@ -1,0 +1,2 @@
+trojan://875462bf-95ed-4751-ab0d-bb37a1dbe9a8@va.spiderman.my.id:443?type=ws&security=tls&host=va.spiderman.my.id&path=/trojan&sni=bug.com#spider
+trojan://875462bf-95ed-4751-ab0d-bb37a1dbe9a8@va.spiderman.my.id:443?mode=gun&security=tls&type=grpc&serviceName=trojan&sni=bug.com#spider
