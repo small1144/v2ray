@@ -6,8 +6,12 @@ vless://telegram-id-ArV2ray@188.245.34.226:443?mode=gun&security=reality&encrypt
 vless://telegram-id-ArV2ray@188.245.67.193:443?mode=gun&security=reality&encryption=none&authority=&pbk=L9bSYVGhk9ZTB__8Ue_yfkIJ4nANnYpqtlFljBhRiG8&fp=firefox&type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&sni=www.speedtest.net&sid=d7d4b0f4#Reality3-Irancell-@ArV2ray
 vless://telegram-id-ArV2ray@188.245.64.60:443?type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&authority=&security=reality&pbk=cGkz-QX76GRQekaGKr_R77_4OFObkjsOYvo9xyfEMyE&fp=firefox&sni=www.speedtest.net&sid=e0ba4b02#Reality4-Irancell-@ArV2ray
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25366#%F0%9F%87%A9%F0%9F%87%AA+TEL%3A+%40V2RAYNG_IP
+ss://YWVzLTEyOC1nY206am9pbmJlZGUtLVpFRE1PREVPTg==@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25367#TEL%3A+%F0%9F%87%A9%F0%9F%87%AA%40V2RAYNG_IP+mtn
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.65.92:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.84.232:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxc09mUW1lZjhYNTM4NW95WEZRTE9D@81.19.141.45:52873#🇩🇪 Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUnBuSHJrcVF1TjJEZHE0MTQ2bmpp@81.19.141.45:52873#🇩🇪 Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjcndPeDIyOHVGN1hCMzFsc1c5Z0xV@81.19.141.45:52873#🇩🇪 Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0T3BZSlFmMXhxaUtVQ1JjcWQ1THFK@81.19.141.45:52873#🇩🇪 Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVTUdZT0FkdTh4TGRWTTNOWXExaGNO@81.19.141.45:52873#🇩🇪 Германия
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MTNDdjYzSWRuQ1pDQk53WTBFOWRR@81.19.141.45:52873#🇩🇪 Германия
