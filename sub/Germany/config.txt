@@ -4,10 +4,10 @@ ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@zedmodeon-join-zedmodeon.kanal-asli-ze
 ss://YWVzLTEyOC1nY206am9pbmJlZGUtLVpFRE1PREVPTg==@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25367#TEL%3A+%F0%9F%87%A9%F0%9F%87%AA%40V2RAYNG_IP+mtn
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.89.114:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.138.163:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjcndPeDIyOHVGN1hCMzFsc1c5Z0xV@81.19.141.45:52873#🇩🇪 Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0T3BZSlFmMXhxaUtVQ1JjcWQ1THFK@81.19.141.45:52873#🇩🇪 Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVTUdZT0FkdTh4TGRWTTNOWXExaGNO@81.19.141.45:52873#🇩🇪 Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MTNDdjYzSWRuQ1pDQk53WTBFOWRR@81.19.141.45:52873#🇩🇪 Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRkoycGtLRGFnRFlQUnhiZW1DVjZC@81.19.141.45:52873#🇩🇪 Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIUTVuUzUyYVlyS2JzclpwTmZ0Qk5L@81.19.141.45:52873#🇩🇪 Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVaE93UkVjb1QzYmJQd212U0RoWno2@81.19.141.45:52873#🇩🇪 Германия
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxdWFXZlk1UTczeFppQklvWGpDZ1hn@81.19.141.45:52873#🇩🇪 Германия
